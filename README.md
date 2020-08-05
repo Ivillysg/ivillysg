@@ -1,6 +1,5 @@
-# Ivillys Gomes
+## Olá pessoal, Ivillys Gomes aquii 👋
 
-## Olá pessoal 👋
 Sou aluno do curso de ciencia da computação do campus UFAL Arapiraca. 
 <br/>Aficionado por Inteligência artificial.
 <br/>Sou um FullStack Developer :computer:
