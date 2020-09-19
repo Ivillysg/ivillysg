@@ -1,6 +1,5 @@
 ## Olá pessoal, Ivillys Gomes aquii 👋
 
-<br/>Sou aficionado por Inteligência artificial 🤖
 <br/>FullStack Developer :computer:<br/>
 
  <br/> :books: &nbsp; Estou no terceiro período de ciência da computação na UFAL, Campus Arapiraca. 
