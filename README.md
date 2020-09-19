@@ -1,6 +1,6 @@
 ## Olá pessoal, Ivillys Gomes aquii 👋
 
-<br/>FullStack Developer :computer:<br/>
+<br/>Sou Desenvolvedor Full Stack :computer:<br/>
 
  <br/> :books: &nbsp; Estou no terceiro período de ciência da computação na UFAL, Campus Arapiraca. 
  <br/> :purple_heart: &nbsp; Buscando colaborar com projetos web, no front end usando ReactJS ou no Back end usando o NodeJS
