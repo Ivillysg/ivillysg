@@ -1,6 +1,6 @@
 ## Olá pessoal, Ivillys Gomes aquii 👋
 
-<br/>Desenvolvedor Full Stack autodidata, aspirante a engenheiro de software e nerd em tempo integral.:computer:<br/>
+<br/>Desenvolvedor Web autodidata, aspirante a engenheiro de software e nerd em tempo integral.:computer:<br/>
 
 
 
