@@ -4,7 +4,7 @@
 
 
 
- <br/> :books: &nbsp; Estou no terceiro período de ciência da computação - UFAL Campus Arapiraca. 
+ <br/> :books: &nbsp; Graduando do curso de Ciência da Computação - UFAL Campus Arapiraca. 
  <br/> :computer: &nbsp; Minha stack: ReactJS, Node.js, React Native.
  <br/> :purple_heart: &nbsp; Buscando colaborar com projetos web, no front end usando ReactJS ou no Back end usando o NodeJS
  <br/> 💬  &nbsp; Sobre mim: Curto tecnologias, games e seriados no Netflix
