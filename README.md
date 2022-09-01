@@ -13,5 +13,5 @@
 [![Gmail Badge](https://img.shields.io/badge/-ivillysgomes@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ivillysgomes@gmail.com)](mailto:ivillysgomes@gmail.com)
 
 
-![Ivillys github stats](https://github-readme-stats.vercel.app/api?username=ivillysg&show_icons=true&theme=dark)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ivillysg&theme=dark&layout=default)](https://github.com/anuraghazra/github-readme-stats)
+![Ivillys github stats](https://github-readme-stats.vercel.app/api?username=ivillysg&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ivillysg&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
