@@ -1,9 +1,5 @@
 ## Olá pessoal, Ivillys Gomes aquii 👋
 
-<br/>Desenvolvedor web autodidata, aspirante a engenheiro de software e nerd em tempo integral.:computer:<br/>
-
-
-
  <br/> :books: &nbsp; Bacharel em ciência da computação - UFAL Campus Arapiraca. 
  <br/> :computer: &nbsp; Minha stack: ReactJS, Node.js, React Native.
  <br/> :purple_heart: &nbsp; Buscando colaborar com projetos web, no front end usando ReactJS ou no Back end usando o NodeJS
